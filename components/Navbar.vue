@@ -12,7 +12,7 @@
         <img src="../assets/images/select-arrow-icon.svg" alt="" />
       </div>
       
-      <nuxt-link to="/healthPros" class="navbar__container_item">Health Pros</nuxt-link>
+      <nuxt-link to="/" class="navbar__container_item">Health Pros</nuxt-link>
       <div class="navbar__container_item">Register Kit</div>
       <div class="navbar__container_item">About us</div>
       <div class="navbar__container_phone">
